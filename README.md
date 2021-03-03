@@ -1,2 +1,2 @@
 # Data-Structures
-Quick look at data structures and algorithms with C++ 
+Quick look at data structures and algorithms with Python.
